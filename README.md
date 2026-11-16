@@ -2,7 +2,7 @@
 
 RAG-Forge is a general-purpose, multi-backend Retrieval-Augmented Generation (RAG) pipeline framework. It ingests content from a configurable data source, chunks and embeds that content into a pluggable vector store, and retrieves relevant context to ground LLM-generated responses. The chatbot interface for the TWU Informatics Graduate Program is the first consumer of the pipeline — one application built on top of RAG-Forge, not the system itself.
 
-**Note:** RAG-Forge was migrated from a prior student capstone GitHub repository (TWU_Chatbot, under a student account) and is now maintained under TWUCSCI on GitLab.
+**Note:** RAG-Forge was migrated from a prior capstone GitHub repository (TWU_Chatbot) 
 
 ## Architecture
 
